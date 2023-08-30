@@ -45,7 +45,7 @@ To run this landing page project locally, follow these steps:
 3. Install all neccessary dependencies:
 
    ```bash
-   cd landing-page-porfolio
+   npm install
 
 ### Usage
 
