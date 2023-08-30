@@ -39,12 +39,12 @@ To run this landing page project locally, follow these steps:
 
 2. Navigate to the project directory:
 
- ```bash
+   ```bash
    cd landing-page-porfolio
 
 3. Install all neccessary dependencies:
 
- ```bash
+   ```bash
    cd landing-page-porfolio
 
 ### Usage
