@@ -19,7 +19,7 @@ Welcome to the MET landing page repository! This project is a sleek and modern l
 
 ## Demo
 
-Check out the live demo [DEMO LINK](https://klaudia-klis.github.io/landing-page-portfolio/) to see it in action!
+Check out the live demo [DEMO LINK](https://klaudia-klis.github.io/LandingPage-Museum/) to see it in action!
 
 ## Getting Started
 
